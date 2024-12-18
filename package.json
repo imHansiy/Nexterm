@@ -17,6 +17,7 @@
     "speakeasy": "^2.0.0",
     "sqlite3": "^5.1.7",
     "ssh2": "^1.16.0",
+    "mysql2": "^3.11.5",
     "ws": "^8.18.0"
   },
   "devDependencies": {
